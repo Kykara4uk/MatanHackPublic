@@ -5,6 +5,8 @@
 
 You can find bot by this [link](https://t.me/MatanHackBot) or by tap a picture above
 
+Now we have **1100+ users** and **6000+ screenshots**
+
 ## Description
 
 In our bot, you can get screenshots of tasks in mathematical analysis or linear algebra from moodle. 
