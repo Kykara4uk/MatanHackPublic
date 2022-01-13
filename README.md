@@ -5,7 +5,7 @@
 
 You can find bot by this [link](https://t.me/MatanHackBot) or by tap a picture above
 
-##Description
+## Description
 
 In our bot, you can get screenshots of tasks in mathematical analysis or linear algebra from moodle. 
 But every test has a price. This is not real money, but only virtual coins that you spend on opening tasks. You can get coins either by sending your screenshots or by inviting friends.
@@ -31,8 +31,8 @@ All successful studies and good mood, do not forget to invite your friends to ge
 Well, I would also like to say that at first the bot will work in test mode. Please report all bugs 
 to us (via the menu button "write to admins" or the [old bot-offer](http://t.me/Predlozhka4Bot))
 
-##Usage
-###Showing other people`s screenschots
+## Usage
+### Showing other people`s screenschots
 1) Click start button or /start command. You will see user menu:
 
 ![1.png](readme_files/1.png)
@@ -52,7 +52,7 @@ to us (via the menu button "write to admins" or the [old bot-offer](http://t.me/
 You can leaf screenshots and change tasks. 
 When you finish your test, press close button, or test will close in 3 hours after start.
 
-###Sending your screenshots
+### Sending your screenshots
 
 1) In main menu click "Заработать" and then "Отправить свои ответы":
 
@@ -70,7 +70,7 @@ When you finish your test, press close button, or test will close in 3 hours aft
 
 After that you can send screenshot of another exercise or return to menu
 
-###Inviting people
+### Inviting people
 
 Choose "Заработать" and then "Пригласить друга" in main menu to see your invite link. 
 
@@ -78,7 +78,7 @@ Choose "Заработать" and then "Пригласить друга" in main
 
 Other people will take 50 additional coins when register by your link. Also, you will receive 50 coins when your friend opens any test for the first time.
 
-###Contact moderators
+### Contact moderators
 
 If you have any questions or problems, you can contact us using "Поддержка"  button in main menu:
 
