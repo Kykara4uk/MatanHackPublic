@@ -1,0 +1,5 @@
+environs~=8.0.0
+python-dotenv
+asyncpg
+aiogram
+gino
