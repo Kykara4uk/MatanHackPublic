@@ -1,4 +1,4 @@
-# MoodleHackPublic
+# MatanHackPublic
  Public repository of matan hack telegram bot
 
 [![firefox_wFTr9lXz6e.png](readme_files/logo.png)](https://t.me/MatanHackBot)
